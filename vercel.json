@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/",       "destination": "/lotgenotendagen",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://webdomein.net/$1"
- }
+    }
   ]
 }
+    
