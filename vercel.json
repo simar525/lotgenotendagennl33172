@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://webdomein.net/$1"
+ }
+  ]
+}
